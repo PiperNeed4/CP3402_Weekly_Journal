@@ -9,6 +9,8 @@ and inform my later efforts. This however did not prove useful as I found that t
 The specific software recommended in the video (scotchbox) did not seem to have a functioning website and as such the content was not useful
 due to it building off of and heavily utilising scotchbox.
 
+I attended the weekly practical to receive feedback for my previous work and to gain knowledge on how to improve my work.
+
 I used the following article to familiarize myself with vagrant and the methods required by running through a demo of the software being used in action.
 https://devopscube.com/vagrant-tutorial-beginners/
 
@@ -24,7 +26,11 @@ Approximately 6.5 hours
 <h1>Content Insights</h1>
 I felt that I had spent more time than necessary attempting to follow the methods presented in the subject demo video which lead to having little time to attempt to learn other methods.
 This made me consider the necessity of diversifying my learning materials and not to put too much effort into pursuing something even if it is through an offical source and
-that it is better to fully identify a useful source before investing considerable amounts of time into it.
+that it is better to fully identify a useful source before investing considerable amounts of time into it. As I had predicted would happen
+the week prior, the use of templates in creating the website I felt had impeded progress regarding design as I found them to 
+be quite constrictive as to what was possible. This however may be due to my preconceived notions about website templates as I
+was approaching the matter already expecting to have issues and as such I might not have given it the time and effort they needed.
+As such in the future I should try to be more open to new methods as to not affect the results.
 
 <h1>Career/Employability/Learning Insights</h1>
 I felt that we had been given an inadequate amount of information to be able to complete this task effectively. This, while
