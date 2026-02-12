@@ -35,4 +35,7 @@ As such in the future I should try to be more open to new methods as to not affe
 <h1>Career/Employability/Learning Insights</h1>
 I felt that we had been given an inadequate amount of information to be able to complete this task effectively. This, while
 not ideal did allow me to practice working in scenarios in which I am dealing with a very low amount of information for the required tasks
-and to be able to better improvise when the immediate solution is not available.
+and to be able to better improvise when the immediate solution is not available. I spent most of this practical behind schedule
+which has led me to reevaluate how I manage my time, specifically by setting individual progress goals different from the due dates
+to account for unexpected events. By attempting to improve how I manage my time I should be able to function better in a work environment
+under the expectations of meeting deadlines and spending more overall time working.
