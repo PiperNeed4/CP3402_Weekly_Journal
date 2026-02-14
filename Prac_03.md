@@ -1,5 +1,6 @@
-<h1>Week 02</h1>
+<h1>Week 03</h1>
 
+http://prac03pn.cloudaccess.host/
 
 <h1>Learning Activities & Resources</h1>
 
@@ -21,3 +22,13 @@ all aspects of a task before starting work as a means of ensuring every need is 
 
 <h1>Career/Employability/Learning Insights</h1>
 
+I made my interview questions knowing what kind of answers I would be the most impressed by and structured my questions
+to prompt the kind of answers I wanted but not to make the best answer obvious. By having experience on the other
+side of the interview process and experiencing what goes into writing questions and conducting the interview, I
+now believe that when being interviewed in the future I should be able to better discern interviewer intent behind the questions
+being asked and be able to provide the answers they want from a candidate.
+
+I opted to host my wordpress site online as I know that hosting a site locally is a requirement for next week
+and I wanted to fully explore both methods as a means of becoming proficient with a greater number of methods.
+I found it important that I gain the knowledge to do it both ways as it is likely that a work environment would necessitate
+the use of both in certain contexts.
