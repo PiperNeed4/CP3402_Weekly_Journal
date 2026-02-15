@@ -11,7 +11,7 @@ I watched the linkedin series about using wordpress to gain familiarity with the
 
 <h1>Estimated Hours</h1>
 
-
+Approximately 6 hours
 
 
 <h1>Content Insights</h1>
