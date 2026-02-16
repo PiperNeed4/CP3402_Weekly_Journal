@@ -26,7 +26,8 @@ Approximately 6.5 hours
 <h1>Content Insights</h1>
 I felt that I had spent more time than necessary attempting to follow the methods presented in the subject demo video which lead to having little time to attempt to learn other methods.
 This made me consider the necessity of diversifying my learning materials and not to put too much effort into pursuing something even if it is through an offical source and
-that it is better to fully identify a useful source before investing considerable amounts of time into it. As I had predicted would happen
+that it is better to fully identify a useful source before investing considerable amounts of time into it. In the future I
+will try to better identify when a plan isn't working and to be able to pivot into using a different method. As I had predicted would happen
 the week prior, the use of templates in creating the website I felt had impeded progress regarding design as I found them to 
 be quite constrictive as to what was possible. This however may be due to my preconceived notions about website templates as I
 was approaching the matter already expecting to have issues and as such I might not have given it the time and effort they needed.
