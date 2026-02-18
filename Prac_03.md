@@ -4,10 +4,11 @@ http://prac03pn.cloudaccess.host/
 
 <h1>Learning Activities & Resources</h1>
 
-I attended the weekly practical and participated in the interview process for potential team members for the group assignment
+I attended the weekly practical and participated in the interview process for potential team members for the group assignment.
 
-I watched the linkedin series about using wordpress to gain familiarity with the wordpress systems.
-
+I watched the linkedin series about using wordpress to gain familiarity with the wordpress systems. I followed along through
+each of the videos as they demonstrated how each feature to gain firsthand knowledge of how best to use them.
+https://www.linkedin.com/learning/wordpress-5-essential-training
 
 <h1>Estimated Hours</h1>
 
