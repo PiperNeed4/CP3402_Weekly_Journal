@@ -8,6 +8,9 @@ I wrote my own personal critique of the feedback given to identify which points 
 I attended the practical session and watched the demo given for docker using AWS. I watched the demo provided through
 the lecture videos on using Vagrant.
 
+I used a written guide on using docker to locally host wordpress sites to assist in conducting the practical tasks.
+https://dev.to/caffinecoder54/wordpress-development-with-docker-a-complete-setup-guide-24cb
+
 <h1>Estimated Hours</h1>
 
 Approximately 4.5 hours
