@@ -21,7 +21,8 @@ Approximately 4.5 hours
 Despite having learnt the basics of vagrant in a prior week I felt it would be better to first follow the docker demo provided as a means of sampling both docker and ensuring I can get a 
 functional local development environment set up before experimenting with different methods. 
 I did this so that if I spent a long period of time using vagrant without success that I would still have a product to be able to showcase as having completed the assigned tasks.
-I ultimately did not end up using either method exactly as shown in the demos as my needs were met by not using AWS.
+I ultimately did not end up using either method exactly as shown in the demos as my needs were met by using docker using the method from the written guide. This was because
+the AWS features demoed in the lecture video were not needed due to the task requirements only needing the site to be hosted locally. 
 
 <h1>Career/Employability/Learning Insights</h1>
 I observed during the practical session that the use of generative AI to create a set of instructions in the demo impeded progress by providing misleading and inconsistent information. 
