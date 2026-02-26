@@ -28,4 +28,6 @@ I observed during the practical session that the use of generative AI to create 
 I noted that the effort that had to be expended fixing the issues present in the instructions provided was greater than the amount of effort it would require to find a human written and verified set of instructions appropriate to the needs of the user. 
 This made me consider how I could alter some of the substandard methods I had been employing in my work. One such method
 I changed with this mindset was to switch from using a document editor for note taking to a dedicated note program which 
-had immediate noticeable beneficial impacts on my productivity due to the software's design being more conducive to taking lots of notes in an organised manner
+had immediate noticeable beneficial impacts on my productivity due to the software's design being more conducive to taking lots of notes in an organised manner. 
+I believe that the ability to evaluate what does and does not work and take steps to correct any inefficiencies is a good skill to develop for
+the workplace to prevent large scale projects from becoming disorganised.
