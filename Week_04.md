@@ -26,7 +26,7 @@ the AWS features demoed in the lecture video were not needed due to the task req
 
 <h1>Career/Employability/Learning Insights</h1>
 I observed during the practical session that the use of generative AI to create a set of instructions in the demo impeded progress by providing misleading and inconsistent information. 
-I noted that the effort that had to be expended fixing the issues present in the instructions provided was greater than the amount of effort it would require to find a human written and verified set of instructions appropriate to the needs of the user. 
+I noted that the effort that had to be expended fixing the issues present in the instructions provided was seemingly greater than the amount of effort it would require to find a human written and verified set of instructions appropriate to the needs of the user. 
 This made me consider how I could alter some of the substandard methods I had been employing in my work. One such method
 I changed with this mindset was to switch from using a document editor for note taking to a dedicated note program which 
 had immediate noticeable beneficial impacts on my productivity due to the software's design being more conducive to taking lots of notes in an organised manner. 
