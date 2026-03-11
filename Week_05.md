@@ -14,7 +14,7 @@ Approximately 5.5 hours
 
 <h1>Content Insights</h1>
 
-By using my insights to create a mock Linkedin post Iwas able to practise changing the wording of a statement to better fit different contexts.
+By using my insights to create a mock Linkedin post I was able to practise changing the wording of a statement to better fit different contexts.
 
 <h1>Career/Employability/Learning Insights</h1>
 
