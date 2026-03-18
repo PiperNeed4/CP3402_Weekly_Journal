@@ -3,7 +3,7 @@
 
 
 <h1>Learning Activities & Resources</h1>
-I attended the weekly practical.
+I attended the weekly practical and coordinated with my team to complete the early set up for the assignment project.
 
 <h1>Estimated Hours</h1>
 Approximately 5 hours
@@ -12,7 +12,8 @@ Approximately 5 hours
 
 <h1>Content Insights</h1>
 
-
+Having to determine what software solutions to use as a group has lead me to consider what makes for a good group software solution. 
+The most important aspect of a group software solution is that it is accessible to all members. 
 
 <h1>Career/Employability/Learning Insights</h1>
 
