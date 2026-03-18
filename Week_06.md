@@ -1,0 +1,21 @@
+<h1>Week 06</h1>
+
+
+
+<h1>Learning Activities & Resources</h1>
+I attended the weekly practical.
+
+<h1>Estimated Hours</h1>
+Approximately 5 hours
+
+
+
+<h1>Content Insights</h1>
+
+
+
+<h1>Career/Employability/Learning Insights</h1>
+
+Most of the teammates being unavailable for the week has lead me to consider how much I should rely on and wait for the prescence
+of other members when completing tasks in a project that might only require a small number of people. It is important to
+know when to progress without teammates as in a work environment halting progress due to absences can lead to missed deadlines.
