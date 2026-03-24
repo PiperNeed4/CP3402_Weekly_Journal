@@ -1,7 +1,7 @@
 # Week 02
 
 
-https://prac02test.cloudaccess.host/index.php
+http://pnassignment01joomla.cloudaccess.host/
 
 ## Learning Activities & Resources
 I attempted to use the demo video found in the subject materials to gain a base understanding of how to meet the task requirements

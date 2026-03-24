@@ -1,6 +1,6 @@
 # Week 03
 
-http://prac03pn.cloudaccess.host/
+http://pnassignment01wordpress.cloudaccess.host/
 
 ## Learning Activities & Resources
 
