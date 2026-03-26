@@ -19,7 +19,7 @@ By using my insights to create a mock Linkedin post I was able to practise chang
 ## Career/Employability/Learning Insights
 
 I have found over the course of the past few weeks that I had fallen into the bad habit of
-overcomplicating otherwise simple tasks. This resulted in me spending a significant amount of time into pursuing methods
+overcomplicating otherwise simple tasks. This resulted in me spending a significant amount of time pursuing methods
 of accomplishing tasks which ultimately did not pan out. This has lead me to adopt a new method of approaching problems
 in which I first try to ascertain what the simplest and easiest method of accomplishing the task is before proceeding. While
 often times the simplest method isn't the best it allows me to get a minimum viable product that can then be improved upon further. 
@@ -27,7 +27,7 @@ This should prove useful in the workplace and my future studies as it enables me
 This method also allows me to gain experience in the field at a quicker rate than just reading documentation. 
 
 
-## Mock Linkedin post
+## Mock LinkedIn post
 
 I have found that the best way to evaluate a problem is to first determine the easiest solution before moving on to what generates the highest quality results. This helps to deliver 
 a minimum viable product before deadlines whilst still providing time for further refinement.
