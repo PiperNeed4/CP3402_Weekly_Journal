@@ -14,7 +14,8 @@ Approximately 5.5 hours
 
 ## Content Insights
 
-By using my insights to create a mock Linkedin post I was able to practise changing the wording of a statement to better fit different contexts.
+In the process of creating a mock LinkedIn post I was able to practise changing the wording of a statement to better appeal to different target demographics.
+I learnt about the conventions used in the creation of wordpress child themes such as by ending the name in -child. 
 
 ## Career/Employability/Learning Insights
 
@@ -29,5 +30,6 @@ This method also allows me to gain experience in the field at a quicker rate tha
 
 ## Mock LinkedIn post
 
-I have found that the best way to evaluate a problem is to first determine the easiest solution before moving on to what generates the highest quality results. This helps to deliver 
-a minimum viable product before deadlines whilst still providing time for further refinement.
+I have found that the one of the best ways to evaluate a problem is to first determine and implement the easiest solution before moving on to what generates the highest quality results. This helps to deliver 
+a minimum viable product before deadlines whilst still providing time for further refinement. I believe that this method can be easily applied
+to the workplace to greatly benefit all members of a team.
