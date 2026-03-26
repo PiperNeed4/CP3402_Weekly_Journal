@@ -26,11 +26,11 @@ only when I feel that I am completely unable to progress without additional info
 ## Learning experiment
 
 ### Hypothesis
-When the amount of preparation prior to attempting a given task is minimized, a greater amount of progress can be made.
+When the amount of preparation prior to attempting a given task is minimized, progress can be made at a faster rate and information retention
+is increased.
 
 ### Experiment
-The group in completing today's given tasks will start to attempt the work given after 15 minutes of preparation. 
-The amount of work completed will then me measured to determine success. 
+I will start the tasks given to me after 10 minutes of preparation. The amount of progress made will then be measured against week 5 which had an hour of preparation.
 
 
 ### Result
