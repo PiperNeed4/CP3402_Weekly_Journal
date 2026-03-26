@@ -12,6 +12,10 @@
 
 ## Content Insights
 
+
+
+## Career/Employability/Learning Insights
+
 My methodology towards doing tasks perceived to be complicated has been to take in all available information possible prior to
 starting. In exercising this methodology I have often held off from starting in the belief that there will be further information
 provided in the future that could be useful. This execution of the methodology has been proven to be flawed as I have found myself
@@ -19,9 +23,6 @@ unprepared for the practical tasks due to having not done the necessary preparat
 class, despite already having enough information to progress. In the future I will attempt to correct this by instead starting tasks
 when I believe I have reasonably gathered the minimum amount of currently available information needed to progress, halting progress
 only when I feel that I am completely unable to progress without additional information.
-
-## Career/Employability/Learning Insights
-
 
 ## Learning experiment
 
