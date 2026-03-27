@@ -3,16 +3,17 @@
 
 
 ## Learning Activities & Resources
-
+I attended the weekly seminar and practical session. I reviewed the lecture materials for week 8.
 
 ## Estimated Hours
 
-
+Approximately 6 hours
 
 
 ## Content Insights
 
-
+I learnt about some of the common practises when creating custom wordpress themes. Such as that it is good practice when writing
+php code to use endif rather than if as it improves readability.
 
 ## Career/Employability/Learning Insights
 
