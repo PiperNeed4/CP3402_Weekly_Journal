@@ -18,11 +18,8 @@ Approximately 4.5 hours
 
 ## Content Insights
 
-Despite having learnt the basics of vagrant in a prior week I felt it would be better to first follow the docker demo provided as a means of sampling both docker and ensuring I can get a 
-functional local development environment set up before experimenting with different methods. 
-I did this so that if I spent a long period of time using vagrant without success that I would still have a product to be able to showcase as having completed the assigned tasks.
-I ultimately did not end up using either method exactly as shown in the demos as my needs were met by using docker using the method from the written guide. This was because
-the AWS features demoed in the lecture video were not needed due to the task requirements only needing the site to be hosted locally. 
+I learnt how to locally host wordpress sites locally using docker. I now know that it requires the creation of a composer file to provide a set of values for different
+settings.
 
 ## Career/Employability/Learning Insights
 I observed during the practical session that the use of generative AI to create a set of instructions in the demo impeded progress by providing misleading and inconsistent information. 
@@ -32,3 +29,9 @@ I changed with this mindset was to switch from using a document editor for note 
 had immediate noticeable beneficial impacts on my productivity due to the software's design being more conducive to taking lots of notes in an organised manner. 
 I believe that the ability to evaluate what does and does not work and take steps to correct any inefficiencies is a good skill to develop for
 the workplace to prevent large scale projects from becoming disorganised.
+
+Despite having learnt the basics of vagrant in a prior week I felt it would be better to first follow the docker demo provided as a means of sampling both docker and ensuring I can get a
+functional local development environment set up before experimenting with different methods.
+I did this so that if I spent a long period of time using vagrant without success that I would still have a product to be able to showcase as having completed the assigned tasks.
+I ultimately did not end up using either method exactly as shown in the demos as my needs were met by using docker using the method from the written guide. This was because
+the AWS features demoed in the lecture video were not needed due to the task requirements only needing the site to be hosted locally. 
